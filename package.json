@@ -1,0 +1,21 @@
+{
+  "name": "youtube-playlist-downloader",
+  "version": "0.0.1",
+  "description": "A simple and hard to use Youtube Playlist Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "youtube",
+    "playlist",
+    "download",
+    "downloader"
+  ],
+  "author": "thebigby01",
+  "license": "ISC",
+  "dependencies": {
+    "get-all-links": "^1.0.2",
+    "ytdl-core": "^2.1.1"
+  }
+}
